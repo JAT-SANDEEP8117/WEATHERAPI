@@ -1,3 +1,4 @@
+const apiKey = process.env.REACT_APP_WEATHER_API_KEY;
 
 // Function to fetch weather data
 async function getWeather() {
