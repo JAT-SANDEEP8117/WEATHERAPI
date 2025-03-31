@@ -1,4 +1,5 @@
-const apiKey = process.env.REACT_APP_WEATHER_API_KEY;
+const apiKey = "de0834fa3d408a8edc3d7640da2a1970"; // Directly assign your API key
+
 
 // Function to fetch weather data
 async function getWeather() {
