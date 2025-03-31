@@ -1,4 +1,3 @@
-const apiKey = "de0834fa3d408a8edc3d7640da2a1970"; // OpenWeather API Key
 
 // Function to fetch weather data
 async function getWeather() {
